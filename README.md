@@ -29,8 +29,8 @@ This repository serves as a centralized collection of:
 - Thread management and conversation context
 
 **Documentation:**
-- **[AI Agent Development Guide (English)](AI_AGENT_DEVELOPMENT_GUIDE.md)** - Complete step-by-step tutorial
-- **[دليل تطوير مساعدات الذكاء الاصطناعي (العربية)](AI_AGENT_DEVELOPMENT_GUIDE_AR.md)** - دليل شامل بالعربية
+- **[AI Agent Development Guide (English)](AI-ASSISTANT-DEV-WITH-OPENAI-ASSITANTS/AI_AGENT_DEVELOPMENT_GUIDE_EN.md)** - Complete step-by-step tutorial
+- **[دليل تطوير مساعدات الذكاء الاصطناعي (العربية)](AI-ASSISTANT-DEV-WITH-OPENAI-ASSITANTS/AI_AGENT_DEVELOPMENT_GUIDE_AR.md)** - دليل شامل بالعربية
 
 **Topics Covered:**
 - ✅ OpenAI API key creation and management
